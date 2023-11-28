@@ -1,0 +1,14 @@
+{
+  "routes": [
+    "/about",
+    "/contact",
+    "/home",
+    "/media",
+    "/news",
+    "/relatedBrand",
+    "/services",
+    "/shop",
+    "/signIn",
+    "/signUp"
+  ]
+}
